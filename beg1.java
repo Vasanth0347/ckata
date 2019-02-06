@@ -1,5 +1,5 @@
 import java.util.*;
-public class HelloWorld{
+class HelloWorld{
 
      public static void main(String []args){
         Scanner inp = new Scanner(System.in);
